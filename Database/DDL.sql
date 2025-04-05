@@ -14,6 +14,7 @@ create table Client (
 SELECT * from Client WHERE passcode=crypt('abhinav123',passcode);
 SELECT * FROM client;*/
 
+
 insert into Client values('C1','Abhinav','Reddy','Abids','Hyderabad','Telangana',500001,crypt('abhinav123',gen_salt('bf',4))),
 					     ('C2','Bhavith','Sharma','Janpath','New Delhi','Delhi',110001,crypt('bhavith123',gen_salt('bf',4))),
 					     ('C3','Himanshu','Bhatt','MG Road','Bangalore','Karnataka',560001,crypt('himanshu123',gen_salt('bf',4))),
