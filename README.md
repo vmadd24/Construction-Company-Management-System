@@ -4,8 +4,6 @@
 
 🏗️ The **Construction Company Management System** is a comprehensive software solution designed to streamline the management of construction projects, operations, and finances. It provides features for project tracking, resource management, financial tracking, and more, all within a user-friendly interface. This system aims to improve the efficiency and organization of construction companies, ensuring seamless management of multiple projects and resources.
 
-![System Overview](images/system-overview.png)
-
 ---
 
 ## Features 🏆
@@ -34,7 +32,14 @@
    - Overview of ongoing projects, budgets, and resources.
    - Generate various reports such as progress, financial, and resource allocation reports.
 
-![Dashboard Example](images/dashboard.png)
+
+![ER Diagram](ER.jpeg)
+
+![Class Diagram](class_diagram.jpeg)
+
+![Dashboard Example](use_case_diagram.jpeg)
+
+![Code Organization](code_organization.png)
 
 ---
 
